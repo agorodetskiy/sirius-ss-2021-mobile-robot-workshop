@@ -10,4 +10,4 @@
 
 Выполнил Линок С.А.
 
-![plot](path_as-1.png)
+![plot](path_as_-1.png)
