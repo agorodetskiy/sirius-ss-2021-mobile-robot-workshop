@@ -11,3 +11,4 @@
 Выполнил Линок С.А.
 
 ![plot](path_as_-1.png)
+![plot](rviz_view.png)
